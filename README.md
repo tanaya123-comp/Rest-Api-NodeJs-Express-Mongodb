@@ -7,8 +7,9 @@
 - Clone the Project
 - Navigate to the Project Directory `cd Rest-Api-NodeJs-Express-Mongodb`
 - Install Dependencies with `npm install`
-- I have used nodemon to run the app. Using Nodemon helps to automatically update the server and reflect the changes when saved.
+
 - Install Nodemon- `npm install -g nodemon --save-dev`
+> I have used nodemon to run the app. Using Nodemon helps to automatically update the server and reflect the changes when saved.
 
 - Run App `nodemon run start`
 
